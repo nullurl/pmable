@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "mymyMarvin",
     "description": "",
-    "home_page_url": "https://pmable.github.io",
-    "feed_url": "https://pmable.github.io/feed.json",
+    "home_page_url": "https://nullurl.github.io/pmable",
+    "feed_url": "https://nullurl.github.io/pmable/feed.json",
     "user_comment": "",
     "author": {
         "name": "Marvin"
